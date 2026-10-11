@@ -1,0 +1,7 @@
+[
+  {"query":"How do I cut cloud compute spending?","relevance":{"cloud_costs":3,"autoscaling":2}},
+  {"query":"How can I recover deleted files?","relevance":{"backups":3,"object_storage":2}},
+  {"query":"How do I secure data during transfer and storage?","relevance":{"encryption":3}},
+  {"query":"How can I make website images load faster?","relevance":{"caching":3}},
+  {"query":"What is the difference between lexical and semantic retrieval?","relevance":{"search":3}}
+]

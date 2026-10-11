@@ -1,0 +1,10 @@
+[
+  {"id":"cloud_costs","text":"Cloud infrastructure costs can be reduced by rightsizing compute instances, removing idle resources, and using reserved capacity for predictable workloads. Review usage metrics before purchasing commitments."},
+  {"id":"autoscaling","text":"Autoscaling increases or decreases compute capacity based on demand. It can reduce waste during quiet periods while maintaining availability during traffic spikes."},
+  {"id":"caching","text":"A content delivery network caches static assets near users, reducing latency and origin server load. Application caches can reduce repeated database reads."},
+  {"id":"encryption","text":"Protect data in transit with TLS and protect data at rest with encryption. Manage encryption keys with restricted access and rotation policies."},
+  {"id":"backups","text":"Backups enable recovery from accidental deletion and corruption. Define recovery point and recovery time objectives and test restores regularly."},
+  {"id":"observability","text":"Monitor request latency, error rates, throughput, and resource saturation. Alerts should be tied to user-impacting service-level objectives."},
+  {"id":"object_storage","text":"Object storage stores files as objects with metadata and keys. Versioning preserves previous versions; lifecycle policies can move older objects to lower-cost tiers."},
+  {"id":"search","text":"BM25 uses lexical term matching. Dense vector retrieval finds semantically similar text. Hybrid retrieval combines these signals and reranking reorders candidates."}
+]

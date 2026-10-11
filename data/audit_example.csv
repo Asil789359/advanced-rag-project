@@ -1,0 +1,4 @@
+claim,citation,supported
+"Autoscaling adjusts capacity based on demand",autoscaling:0,1
+"Encryption protects data at rest",encryption:0,1
+"Caching automatically encrypts all data",caching:0,0
